@@ -1,0 +1,3 @@
+sudo docker container ls -a
+sudo docker exec -it mongo_dbaas mongo admin
+show dbs
